@@ -1,0 +1,2 @@
+rootProject.name = 'poc-zipkin-service2'
+include 'contract'
