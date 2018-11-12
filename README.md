@@ -1,4 +1,4 @@
-# POC Zipkin with Spring Cloud Data Provider
+# POC Zipkin with Spring Cloud
 Service called in **poc-zipkin-service1** (https://github.com/vagner-nascimento/poc-zipkin-service1)
 
 # How to run
